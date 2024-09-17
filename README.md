@@ -29,6 +29,7 @@ Heya! i'm Abrar from India and i am currently student doing major in cs. I enjoy
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raja-Abrar-Khan&show_icons=true&locale=en" alt="Raja-Abrar-Khan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Abrar-Khan&" alt="Raja-Abrar-Khan" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Raja-Abrar-Khan&" alt="Raja-Abrar-Khan" /></p>
+
 
 
