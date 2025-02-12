@@ -1,5 +1,3 @@
-Heya! i'm Abrar from India and i am currently student doing major in cs. I enjoy learning about about Internet and stuff.
-
 <h1 align="center">Heya 👋, I'm Abrar</h1>
 <h3 align="center">Passionate about fullStack development</h3>
 
